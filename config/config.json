@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x4472e80B3873f7AfcEE09C50BFfcEe0Aa5CCEAE0",
+  "SCAN_LINK": "https://etherscan.io/address/0x4472e80B3873f7AfcEE09C50BFfcEe0Aa5CCEAE0",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Kali Goddess Collection",
+  "SYMBOL": "GDS",
+  "MAX_SUPPLY": 8888,
+  "WEI_COST": 50000000000000000,
+  "DISPLAY_COST": 0.05,
+  "GAS_LIMIT": 300000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/kali-goddess-collection",
+  "SHOW_BACKGROUND": true
+}
